@@ -1,0 +1,16 @@
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/QuebraCabeca
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/QuebraCabeca.deps.json
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/QuebraCabeca.runtimeconfig.json
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/QuebraCabeca.runtimeconfig.dev.json
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/QuebraCabeca.dll
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/ref/QuebraCabeca.dll
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/bin/Debug/net5.0/QuebraCabeca.pdb
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.csprojAssemblyReference.cache
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.GeneratedMSBuildEditorConfig.editorconfig
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.AssemblyInfoInputs.cache
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.AssemblyInfo.cs
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.csproj.CoreCompileInputs.cache
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.dll
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/ref/QuebraCabeca.dll
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.pdb
+/home/beatriz/Documentos/www/quebra-cabeca/QuebraCabeca/obj/Debug/net5.0/QuebraCabeca.genruntimeconfig.cache
